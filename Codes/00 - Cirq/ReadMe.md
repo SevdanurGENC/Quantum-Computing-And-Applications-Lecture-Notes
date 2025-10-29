@@ -9,3 +9,7 @@ https://quantum.cloud.ibm.com/learning/en/courses/utility-scale-quantum-computin
 https://stem.mitre.org/quantum/quantum-concepts/bloch-sphere.html
 
 https://medium.com/quantum-untangled/visualizing-quantum-logic-gates-part-1-515bb7b58916
+
+
+
+<img width="1688" height="1061" alt="image" src="https://github.com/user-attachments/assets/d99f5629-5b98-45c5-a9a3-696a721bc45f" />
